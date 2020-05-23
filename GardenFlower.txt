@@ -1,0 +1,105 @@
+
+Pale Purple ConeFlower
+Echinacea Pallida
+pink/purple
+Summer
+Flower
+0
+3
+5
+dry/moist
+null
+PlantPictures/Pale_Purple_Coneflower.jpg
+PlantPictures/Pale_Purple_ConeflowerSpring.jpg
+PlantPictures/Pale_Purple_ConeflowerSpring.jpg
+PlantPictures/Pale_Purple_ConeflowerSpring.jpg
+
+Seaside Goldenrod
+Solidago Sempervirens
+yellow
+Fall
+Flower
+0
+3
+5
+moist
+null
+PlantPictures/Seaside_GoldenRod.jpg
+PlantPictures/Seaside_GoldenRod.jpg
+PlantPictures/Seaside_GoldenRodFall.jpg
+PlantPictures/Seaside_GoldenRod.jpg
+
+Fillaree
+Geraniaceae Erodium texanum
+Red/Purple
+Spring
+Flower
+0
+3
+5
+dry
+null
+PlantPictures/FillareeSpring.jpg
+PlantPictures/Fillaree.jpg
+PlantPictures/Fillaree.jpg
+PlantPictures/Fillaree.jpg
+	
+Star Grass
+Liliaceae Aletris aurea
+yellow
+Summer
+Flower
+0
+3
+4
+null
+null
+PlantPictures/Star_Grass.jpg
+PlantPictures/Star_GrassSummer.jpg
+PlantPictures/Star_Grass.jpg
+PlantPictures/Star_Grass.jpg
+
+NarrowLeaf Onion
+Allium amplectens
+white, pink
+Summer
+Flower
+0
+3
+3
+null
+null
+PlantPictures/Narrowleaf_Onion.jpg
+PlantPictures/Narrowleaf_OnionSummer.jpg
+PlantPictures/Narrowleaf_Onion.jpg
+PlantPictures/Narrowleaf_Onion.jpg
+
+Pear Thorn
+Crataegus calpodenron
+White
+Summer
+Flower
+0
+3
+3
+null
+null
+PlantPictures/Pear_Thorn.jpg
+PlantPictures/Pear_ThornSummer.jpg
+PlantPictures/Pear_Thorn.jpg
+PlantPictures/Pear_Thorn.jpg
+	
+White Snakeroot
+Ageratina Altissim
+White
+Fall
+Flower
+0
+1
+4
+null
+null
+PlantPictures/White_Snakeroot.jpg
+PlantPictures/White_Snakeroot.jpg
+PlantPictures/White_SnakerootFall.jpg
+PlantPictures/White_Snakeroot.jpg
